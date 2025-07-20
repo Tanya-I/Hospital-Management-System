@@ -1,0 +1,4 @@
+PatientID,Password,Name,Gender,DOB,Contact Number,Email,BloodType,PastTreatments
+P1001,password,Alice Brown,Female,14/5/1980,34343434,alice.brown@example.com,A+,NA
+P1002,password,Bob Stone,Male,22/11/1975,12345678,bob.stone@example.com,B+,NA
+P1003,password,Charlie White,Male,8/7/1990,80456785,charlie.white@example.com,O-,NA

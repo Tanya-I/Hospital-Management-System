@@ -1,0 +1,8 @@
+ID,Password,Role,Name
+P1001,password,PATIENT,Alice Brown
+P1002,password,PATIENT,Bob Stone
+P1003,password,PATIENT,Charlie White
+D001,password,DOCTOR,John Smith
+D002,password,DOCTOR,Emily Clarke
+P001,password,PHARMACIST,Mark Lee
+A001,password,ADMINISTRATOR,Sarah Lee
