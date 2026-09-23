@@ -4,7 +4,7 @@
 ## **Introduction**  
 The Hospital Management System (HMS) is designed to streamline hospital operations by managing roles such as Doctors, Pharmacists, Patients, and Administrators. It automates tasks like appointment scheduling, inventory management, and billing while adhering to Object-Oriented Programming (OOP) principles and SOLID design principles.
 
-Link to JavaDoc: https://madhav-byte-debug.github.io/SC2002-Project/ 
+Link to JavaDoc: https://tanya-i.github.io/Hospital-Management-System/ 
 
 The architecture ensures modularity and scalability through high-level and low-level packages, reducing dependencies and enhancing maintainability.  
 ---
